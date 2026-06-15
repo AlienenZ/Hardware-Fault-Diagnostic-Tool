@@ -1,0 +1,21 @@
+软件许可协议 / Software License Agreement
+=============================================
+
+硬件故障检测工具 (HW-Diag)
+Hardware Fault Diagnostic Tool
+
+版权所有 (c) 2026
+All Rights Reserved.
+
+本软件按"现状"提供，不作任何明示或暗示的保证。
+This software is provided "as is" without warranty of any kind.
+
+使用条款 / Terms of Use:
+1. 本软件仅供个人学习和非商业用途使用
+   This software is for personal learning and non-commercial use only
+2. 本软件通过 WMI 接口读取硬件信息，不会修改任何系统设置
+   This software reads hardware info via WMI and does not modify system settings
+3. 检测结果仅供参考，不构成专业维修建议
+   Detection results are for reference only and do not constitute professional repair advice
+4. 使用本软件即表示您同意上述条款
+   By using this software, you agree to the above terms
